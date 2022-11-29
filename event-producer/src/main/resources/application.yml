@@ -1,0 +1,9 @@
+spring:
+  kafka:
+    bootstrap-servers: localhost:9092
+    producer:
+      topic: EVENT
+      time-interval: 10
+
+server:
+  port: 8087

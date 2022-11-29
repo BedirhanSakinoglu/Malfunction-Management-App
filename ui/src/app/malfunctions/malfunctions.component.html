@@ -1,0 +1,176 @@
+
+<div class="container">
+    <h1 class="mt-5 mb-4">Malfunctions</h1>
+
+    <div class="mt-5 pt-4" *ngIf="!updateNotificationFlag AND !addNotificationFlag">  
+    </div>
+
+    <div class="alert alert-sm alert-info alert-dismissible fade show" role="alert" *ngIf="updateNotificationFlag">
+        <button type="button" class="btn-close" (click)="closeUpdateNotification()"></button>
+        Malfunction with ID: {{this.updatedMalfunctionId}} is updated
+    </div>
+
+    <div class="alert alert-info alert-dismissible fade show" role="alert" *ngIf="addNotificationFlag">
+        <button type="button" class="btn-close" (click)="closeAddNotification()"></button>
+        A new malfunction with ID: {{this.addedMalfunctionId}} is created
+    </div>
+    
+    
+    <div class="form-check form-check-inline">
+        <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1" (click)="displayStart()" checked>
+        <label class="form-check-label" for="inlineCheckbox1">Start Time</label>
+    </div>
+    <div class="form-check form-check-inline">
+        <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2" (click)="displayEnd()" checked>
+        <label class="form-check-label" for="inlineCheckbox2">End Time</label>
+    </div>
+    <div class="form-check form-check-inline">
+        <input class="form-check-input" type="checkbox" id="inlineCheckbox3" value="option3" (click)="displayStage()" checked>
+        <label class="form-check-label" for="inlineCheckbox3">Stage</label>
+    </div>
+    <div class="form-check form-check-inline">
+        <button class="btn btn-primary btn-sm" (click)="openFiltersSidePanel()">Filters</button>
+    </div>
+
+    
+    <div style="max-height: 58vh; overflow: auto;">
+        <table class="table mt-2">
+            <thead>
+            <tr>
+                <!--<th>ID</th>-->
+                <th>Malfunction ID</th>
+                <th *ngIf="displayStartFlag">Start Time</th>
+                <th *ngIf="displayEndFlag">End Time</th>
+                <th *ngIf="displayStageFlag">Stage</th>
+            </tr>
+        </thead>
+        <tbody *ngIf="malfunctions.length > 0">
+            <tr *ngFor="let malfunction of malfunctions">
+                <td>{{malfunction.malfunctionId}}</td>
+                <td *ngIf="displayStartFlag">{{malfunction.startTimestamp}}</td>
+                <td *ngIf="displayEndFlag">{{malfunction.endTimestamp}}</td>
+                <td *ngIf="displayStageFlag">{{malfunction.stage[0]}}</td>
+                <td><button class="btn btn-warning btn-sm" (click)="openUpdateSidePanel(malfunction)">Update</button></td>
+                <td><button class="btn btn-secondary btn-sm" (click)="openDetailsSidePanel(malfunction)">See Details</button></td>
+            </tr>
+        </tbody>
+        </table>
+        <div class="alert alert-warning mt-4" *ngIf='malfunctions.length == 0'>There is no malfunction currently.</div>
+    </div>
+
+</div>
+
+<div id="mySidepanel" class="container sidepanel" *ngIf="updatePanelFlag">
+    <a href="javascript:void(0)" class="closebtn" (click)="closeUpdateSidePanel()">&times;</a>
+    <div class="container">
+    <h2 class="mt-5">Update Malfunction</h2>
+    <p>(ID: {{malfunction.malfunctionId}})</p>
+    <div class="alert alert-success mt-4" *ngIf="updatedFlag">Malfunction Updated Succesfully</div>
+
+    <form class="mt-5" (ngSubmit)="saveMalfunction()" #todoForm="ngForm">
+        <fieldset class="form-group">
+            <label>Current Stage:</label>
+            <input type="text" ngModel required #stage="ngModel" [(ngModel)]="currentStage" class="form-control" name="stage" required="required">
+        </fieldset>
+        <br>
+        <fieldset class="form-group">
+            <label>Crew ID:</label>
+            <input type="text" ngModel required #crew_id="ngModel" [(ngModel)]="details.crew_id" class="form-control" name="crew_id" required="required">
+        </fieldset>
+        <fieldset class="form-group">
+            <label>Description:</label>
+            <input type="text" ngModel required #description="ngModel" [(ngModel)]="details.description" class="form-control" name="description" required="required">
+        </fieldset>
+        <fieldset class="form-group">
+            <label>Malfunction Cause:</label>
+            <input type="text" ngModel required #malfunction_cause="ngModel" [(ngModel)]="details.malfunction_cause" class="form-control" name="malfunction_cause" required="required">
+        </fieldset>
+        
+        <br>
+        <button type="submit" class="btn btn-success mt-5">Save</button>
+        <button (click)="closeUpdateSidePanel()" style="margin-left: 3vh;" class="btn btn-secondary mt-5">Cancel</button>
+    </form>
+    </div>
+</div>
+
+<div id="mySidepanel" class="container sidepanel" *ngIf="detailsPanelFlag">
+    <a href="javascript:void(0)" class="closebtn" (click)="closeDetailsSidePanel()">&times;</a>
+    <div class="container" >
+        <h2 class="mt-4">Malfunction Details</h2>
+        <p>(ID: {{malfunction.malfunctionId}})</p>
+    </div>
+    <br>
+    <div class="container">
+        <p><b>Crew ID:</b> {{details.crew_id}}</p>
+        <p><b>Details:</b> {{details.description}}</p>
+        <p><b>Malfunction Cause:</b> {{details.malfunction_cause}}</p>
+        <br>
+        <p><b>Past Stages:</b></p>
+        <div style="border:1px solid rgb(214, 214, 214); width: 100%; max-height: 55vh; overflow: auto;">
+            <table class="table">
+            <tbody>
+                <tr *ngFor="let stage of malfunction.stage">
+                    <td>{{stage}}</td>
+                </tr>
+            </tbody>
+            </table>
+        </div>
+    </div>
+    
+</div>
+
+<div id="mySidepanel" class="container sidepanel" *ngIf="filtersSidePanelFlag">
+    <a href="javascript:void(0)" class="closebtn" (click)="closeFiltersSidePanel()">&times;</a>
+    <div class="container" >
+        <h2 class="mt-4">Filters</h2>
+    </div>
+    <div class="container mt-5">
+      <div class="form-check" *ngIf="!sortByStartFlag">
+        <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1" (click)="sortByStart()">
+        <label class="form-check-label" for="inlineRadio1">Sort by start timestamp</label>
+      </div>
+      <div class="form-check" *ngIf="sortByStartFlag">
+        <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1" (click)="sortByStart()" checked>
+        <label class="form-check-label" for="inlineRadio1">Sort by start timestamp</label>
+      </div>
+      
+      <div class="form-check" *ngIf="!sortByEndFlag">
+        <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2" (click)="sortByEnd()">
+        <label class="form-check-label" for="inlineRadio2">Sort by end timestamp</label>
+      </div>
+      <div class="form-check" *ngIf="sortByEndFlag">
+        <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2" (click)="sortByEnd()" checked>
+        <label class="form-check-label" for="inlineRadio2">Sort by end timestamp</label>
+      </div>
+    </div>
+    <br>
+    <div class="container">
+        <form (ngSubmit)="applyFilter()" #todoForm="ngForm">
+            <fieldset class="form-group">
+                <label>Malfunction ID:</label>
+                <input type="text" ngModel required #stage="ngModel" [(ngModel)]="idFilter" class="form-control" name="stage" required="required">
+            </fieldset>
+            <br>
+            <fieldset class="form-group">
+                <label>Start Time:</label>
+                <input type="text" ngModel required #crew_id="ngModel" [(ngModel)]="startFilter" class="form-control" name="crew_id" required="required">
+            </fieldset>
+            <br>
+            <fieldset class="form-group">
+                <label>End Time:</label>
+                <input type="text" ngModel required #description="ngModel" [(ngModel)]="endFilter" class="form-control" name="description" required="required">
+            </fieldset>
+            <br>
+            <fieldset class="form-group">
+                <label>Stage:</label>
+                <input type="text" ngModel required #malfunction_cause="ngModel" [(ngModel)]="stageFilter" class="form-control" name="malfunction_cause" required="required">
+            </fieldset>
+            
+            <br>
+            <button type="submit" class="btn btn-primary mt-5">Apply</button>
+            <button (click)="removeAllFilters()" style="margin-left: 3vh;" class="btn btn-secondary mt-5">Remove All Filters</button>
+        </form>
+    </div>
+    
+</div>
+  

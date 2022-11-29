@@ -1,0 +1,27 @@
+<div class="container">
+    <h2 class="mt-5">Update Malfunction</h2>
+    <p>(ID: {{malfunction.malfunctionId}})</p>
+
+    <form (ngSubmit)="saveMalfunction()" #todoForm="ngForm">
+        <fieldset class="form-group">
+            <label>Current Stage:</label>
+            <input type="text" ngModel required #stage="ngModel" [(ngModel)]="currentStage" class="form-control" name="stage" required="required">
+        </fieldset>
+        <br>
+        <fieldset class="form-group">
+            <label>Crew ID:</label>
+            <input type="text" ngModel required #crew_id="ngModel" [(ngModel)]="details.crew_id" class="form-control" name="crew_id" required="required">
+        </fieldset>
+        <fieldset class="form-group">
+            <label>Description:</label>
+            <input type="text" ngModel required #description="ngModel" [(ngModel)]="details.description" class="form-control" name="description" required="required">
+        </fieldset>
+        <fieldset class="form-group">
+            <label>Malfunction Cause:</label>
+            <input type="text" ngModel required #malfunction_cause="ngModel" [(ngModel)]="details.malfunction_cause" class="form-control" name="malfunction_cause" required="required">
+        </fieldset>
+        
+        <button type="submit" class="btn btn-success mt-5">Save</button>
+        <button (click)="cancel()" style="margin-left: 3vh;" class="btn btn-secondary mt-5">Cancel</button>
+    </form>
+</div>

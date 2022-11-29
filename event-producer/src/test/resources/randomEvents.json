@@ -1,0 +1,1102 @@
+[
+    {
+        "details": {
+            "crew_id": "grkyNfKWq",
+            "description": "BZK",
+            "outage_cause": "HyXrseClioAiDQYDxflUZ"
+        },
+        "id": "8408d240-ff7f-44d6-ac5b-5d1443e8a11b",
+        "stage": "CLOSED",
+        "timestamp": 1628153546604,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "UrcbLdxlYtusTUczCvHZQQS",
+            "description": "QXxBrAgK",
+            "outage_cause": "jPTNvdyhIPbGuLcGdl"
+        },
+        "id": "26d441a0-96d9-48ea-afb7-ed4b7a164d9b",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546612,
+        "type": "OutageCreated"
+    },
+    {
+        "details": {
+            "crew_id": "FarFMZENPwxPKqXWiysIFwhidMEdjqW",
+            "description": "fiuD",
+            "outage_cause": "BmGmXb"
+        },
+        "id": "5f33bd28-a76a-4420-858a-4d6fab9d0548",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546622,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "PVWLTBY",
+            "description": "SRbGBuUZMumMecTvvFSJd",
+            "outage_cause": "GTrIpwvqmjkdwJZEzVE"
+        },
+        "id": "391fecfa-2dd6-45cc-8611-e78a9cafa851",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546623,
+        "type": "OutageCreated"
+    },
+    {
+        "details": {
+            "crew_id": "ewrhJLdLuo",
+            "description": "WStLuOpIwVwLb",
+            "outage_cause": "biGKgSmjNrbxGNxYIeWHOTnh"
+        },
+        "id": "537f2c2f-762c-46ec-8d4f-fcb16db13a88",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546623,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "rDbOPPNcPikYkjhZSnqUeGVgDgHGXC",
+            "description": "VoIAxUOPSeKvb",
+            "outage_cause": "mhnmdFJYoBkxzzpdLwyrGbArJbyRaJ"
+        },
+        "id": "ca97905c-a7e1-4c6a-b3db-1ff93e6d3002",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546633,
+        "type": "OutageClosed"
+    },
+    {
+        "details": {
+            "crew_id": "GWgGhFYQnPUalRVElVmXjLVxVeJ",
+            "description": "uhrUUywzvXnBGfWiMMVIZvpqiuUIcoa",
+            "outage_cause": "bydaXsjmttTWESUXbxfgM"
+        },
+        "id": "9194f1a0-3b96-42a3-89d2-e19b7b94097e",
+        "stage": "OPEN",
+        "timestamp": 1628153546634,
+        "type": "OutageCreated"
+    },
+    {
+        "details": {
+            "crew_id": "EgLFwmFAPbB",
+            "description": "CFVsTUzEQWxuvHtyHQSu",
+            "outage_cause": "EYjukZ"
+        },
+        "id": "f3391a64-560f-4971-9f4d-91e8a61db9b2",
+        "stage": "OPEN",
+        "timestamp": 1628153546634,
+        "type": "OutageClosed"
+    },
+    {
+        "details": {
+            "crew_id": "MXnbmzEuzJsHrfvFTcREb",
+            "description": "vYVrnNWLaswbfofqDJ",
+            "outage_cause": "DrTGb"
+        },
+        "id": "89d47511-e9bb-45bc-b522-44d0805ce1ee",
+        "stage": "OPEN",
+        "timestamp": 1628153546643,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "yRyJrvuvWkPs",
+            "description": "VhTcZuGBOYd",
+            "outage_cause": "bdcuU"
+        },
+        "id": "934e366a-1abc-446a-bba6-6c4b0105de27",
+        "stage": "OPEN",
+        "timestamp": 1628153546643,
+        "type": "OutageClosed"
+    },
+    {
+        "details": {
+            "crew_id": "CUP",
+            "description": "XKJifaxWDpjuxnmjzSgLLHapJR",
+            "outage_cause": "XEOhTugOavmsKjYXAxqCNoDZjiOxb"
+        },
+        "id": "e37c027a-0102-41c5-aafb-21e7d8e5b461",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546653,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "ZuBefmwVjyigUNe",
+            "description": "DsUPAyTyQIVyorKHEwrgFG",
+            "outage_cause": "AkHeVDXcnYhioyWYELuRRb"
+        },
+        "id": "c91fc68f-a1b1-4102-9db6-c0a32ca064bf",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546659,
+        "type": "OutageClosed"
+    },
+    {
+        "details": {
+            "crew_id": "MUSMakRupnHixy",
+            "description": "RFOhYdPQssNn",
+            "outage_cause": "wU"
+        },
+        "id": "71654fe2-6412-4ef3-8115-0076a8a784c7",
+        "stage": "CLOSED",
+        "timestamp": 1628153546663,
+        "type": "OutageClosed"
+    },
+    {
+        "details": {
+            "crew_id": "lGrRmWdGhf",
+            "description": "ODIAlRhkvJuwZVR",
+            "outage_cause": "aK"
+        },
+        "id": "d83c0f4a-324b-465d-b5ea-c358141563c2",
+        "stage": "CLOSED",
+        "timestamp": 1628153546663,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "laiHrEjPKrBXfZVhowEvrEcDO",
+            "description": "WaKPtV",
+            "outage_cause": "EgWkFQPRznAmOrbzyunurUVAG"
+        },
+        "id": "618831ba-88b7-4fa7-a7e0-279a2effe967",
+        "stage": "CLOSED",
+        "timestamp": 1628153546663,
+        "type": "OutageCreated"
+    },
+    {
+        "details": {
+            "crew_id": "QkMifwhZJn",
+            "description": "PdH",
+            "outage_cause": "rBcWMojoHaorACcSfiwoTHSsQRkz"
+        },
+        "id": "8837d3b4-9c1b-475a-a8f2-b1620bd0bbce",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546673,
+        "type": "OutageCreated"
+    },
+    {
+        "details": {
+            "crew_id": "ceTZNXaJzzFQxILgUhNUe",
+            "description": "VXmCPsjHfAlL",
+            "outage_cause": "gXZtEKsdtNfLm"
+        },
+        "id": "e9cf14cd-9150-4d47-ba1b-ace99e1d5ae8",
+        "stage": "CLOSED",
+        "timestamp": 1628153546677,
+        "type": "OutageCreated"
+    },
+    {
+        "details": {
+            "crew_id": "epLpccMtewannRpOxUryBMCucIOMQ",
+            "description": "vcwGVIAWqOLtgRWAcbXvsqfpn",
+            "outage_cause": "UrTHdXMzrujdR"
+        },
+        "id": "3deac1a4-5ffc-40c6-90b6-6444a1c9d924",
+        "stage": "OPEN",
+        "timestamp": 1628153546683,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "JBysubTRkDhCClwMeAJaoKKhnHFFm",
+            "description": "nyhAmdza",
+            "outage_cause": "tsmdriSGmMLGVY"
+        },
+        "id": "13639752-6dea-4383-8649-9533aed0905c",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546683,
+        "type": "OutageClosed"
+    },
+    {
+        "details": {
+            "crew_id": "DZPVmzhRsweiPDS",
+            "description": "XNAsvGbtpJeRlPFIVnx",
+            "outage_cause": "tsshTKhYZCvyyspQRtrDoeNFMiP"
+        },
+        "id": "efcef59d-9f69-4513-999c-167437154b15",
+        "stage": "CLOSED",
+        "timestamp": 1628153546683,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "ALVNTUoNglITNmVFXcty",
+            "description": "yWYBsD",
+            "outage_cause": "YbUiheuzR"
+        },
+        "id": "efcef59d-9f69-4513-999c-167437154b15",
+        "stage": "OPEN",
+        "timestamp": 1628153546694,
+        "type": "OutageClosed"
+    },
+    {
+        "details": {
+            "crew_id": "kxoZRuvKSnHWUyowLtY",
+            "description": "szr",
+            "outage_cause": "ujCoSQskQV"
+        },
+        "id": "8837d3b4-9c1b-475a-a8f2-b1620bd0bbce",
+        "stage": "CLOSED",
+        "timestamp": 1628153546694,
+        "type": "OutageClosed"
+    },
+    {
+        "details": {
+            "crew_id": "VuPwjTgWK",
+            "description": "ReOQfIJxyyjodNbpGmJ",
+            "outage_cause": "UHsslCnbfqYDTvbPn"
+        },
+        "id": "efcef59d-9f69-4513-999c-167437154b15",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546704,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "VErdapvIAnlmuW",
+            "description": "OyulhAVzqkkmtl",
+            "outage_cause": "ZTxDQeOKqbFUz"
+        },
+        "id": "934e366a-1abc-446a-bba6-6c4b0105de27",
+        "stage": "CLOSED",
+        "timestamp": 1628153546714,
+        "type": "OutageClosed"
+    },
+    {
+        "details": {
+            "crew_id": "EFlfmibIPGAwhsFQHkQqOcI",
+            "description": "RsFmVXQNSoSRDfctjbkIWlcxuE",
+            "outage_cause": "TVHLTRz"
+        },
+        "id": "391fecfa-2dd6-45cc-8611-e78a9cafa851",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546714,
+        "type": "OutageCreated"
+    },
+    {
+        "details": {
+            "crew_id": "yvdpTdrFesCAvLp",
+            "description": "asOTFksal",
+            "outage_cause": "qnhBiLpN"
+        },
+        "id": "f3391a64-560f-4971-9f4d-91e8a61db9b2",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546724,
+        "type": "OutageClosed"
+    },
+    {
+        "details": {
+            "crew_id": "ltcsFEuvJacWtsoxKQCKp",
+            "description": "KblKJo",
+            "outage_cause": "DxKvxFJdTWalX"
+        },
+        "id": "618831ba-88b7-4fa7-a7e0-279a2effe967",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546734,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "fMRuIvak",
+            "description": "p",
+            "outage_cause": "QuVcIltdARgNmDgqaOhxFxITQxE"
+        },
+        "id": "3deac1a4-5ffc-40c6-90b6-6444a1c9d924",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546734,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "BtQKIqAZfyGCubLhjeiRKyDIpgxvF",
+            "description": "sFbqyPljxVXLGhsPoGyAdXD",
+            "outage_cause": "PTtmVdShctfkgkprR"
+        },
+        "id": "934e366a-1abc-446a-bba6-6c4b0105de27",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546734,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "nudfXAHeGxpGfASQRflgp",
+            "description": "BnMFwRSKtUsFdIiIzXVHibyExfVW",
+            "outage_cause": "IyDXdERREA"
+        },
+        "id": "618831ba-88b7-4fa7-a7e0-279a2effe967",
+        "stage": "CLOSED",
+        "timestamp": 1628153546744,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "mmEBdnMNtIGNQzTGHnvRTxcMAOt",
+            "description": "aiEsGyvIcV",
+            "outage_cause": "UdgBXPfAzVtVhNvGMJdFiCBoiecfj"
+        },
+        "id": "9194f1a0-3b96-42a3-89d2-e19b7b94097e",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546744,
+        "type": "OutageCreated"
+    },
+    {
+        "details": {
+            "crew_id": "wFtaGHRCWNLrxSkljHlN",
+            "description": "iBKMMNMLW",
+            "outage_cause": "dlRuWlJCTR"
+        },
+        "id": "3deac1a4-5ffc-40c6-90b6-6444a1c9d924",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546754,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "UJhNpLBvMBgJRxuDfKXGcjgqA",
+            "description": "uDKlKxrZOAMp",
+            "outage_cause": "rFybpkOOFcCWASKYCimgWMRZEobju"
+        },
+        "id": "e9cf14cd-9150-4d47-ba1b-ace99e1d5ae8",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546754,
+        "type": "OutageCreated"
+    },
+    {
+        "details": {
+            "crew_id": "leZgvjXEOeHbbphpDNy",
+            "description": "MqzmidVmimO",
+            "outage_cause": "wztZWUprITF"
+        },
+        "id": "ca97905c-a7e1-4c6a-b3db-1ff93e6d3002",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546764,
+        "type": "OutageCreated"
+    },
+    {
+        "details": {
+            "crew_id": "dVVRHQjVZFWFWAHeppg",
+            "description": "CpRoCYYmWiygxo",
+            "outage_cause": "wESftXbyZjkyJkHNtqiarVjAxKjq"
+        },
+        "id": "618831ba-88b7-4fa7-a7e0-279a2effe967",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546764,
+        "type": "OutageCreated"
+    },
+    {
+        "details": {
+            "crew_id": "lDHxiImCmhXRoKelpLsD",
+            "description": "OxowmALpbviGVpIMDDSlEDTAKBMz",
+            "outage_cause": "FYpJ"
+        },
+        "id": "89d47511-e9bb-45bc-b522-44d0805ce1ee",
+        "stage": "CLOSED",
+        "timestamp": 1628153546774,
+        "type": "OutageClosed"
+    },
+    {
+        "details": {
+            "crew_id": "TYvRLDdggSZcBrKqHzlvzKUsi",
+            "description": "sYbmgchWJr",
+            "outage_cause": "exRRpvDgnzlmuJWrAXo"
+        },
+        "id": "e9cf14cd-9150-4d47-ba1b-ace99e1d5ae8",
+        "stage": "CLOSED",
+        "timestamp": 1628153546774,
+        "type": "OutageCreated"
+    },
+    {
+        "details": {
+            "crew_id": "QluwNGDlbBlmcUoRbdaPJ",
+            "description": "FIheEtunDhlXWOLamdCyBxWKngE",
+            "outage_cause": "vcKsDbBdjCgAsorCskMDnAdyh"
+        },
+        "id": "9194f1a0-3b96-42a3-89d2-e19b7b94097e",
+        "stage": "CLOSED",
+        "timestamp": 1628153546785,
+        "type": "OutageClosed"
+    },
+    {
+        "details": {
+            "crew_id": "VZId",
+            "description": "ibpqJOJtNVLhbvebIYcKJNKQHgbb",
+            "outage_cause": "lpbmqKXGJasxykRnFdI"
+        },
+        "id": "26d441a0-96d9-48ea-afb7-ed4b7a164d9b",
+        "stage": "CLOSED",
+        "timestamp": 1628153546785,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "enCsXPgDucMabpADxvHYXhdwiT",
+            "description": "hixGAcqQMEDCvGM",
+            "outage_cause": "OygocbpJzYNRPHWVjlOQcFAn"
+        },
+        "id": "618831ba-88b7-4fa7-a7e0-279a2effe967",
+        "stage": "OPEN",
+        "timestamp": 1628153546795,
+        "type": "OutageClosed"
+    },
+    {
+        "details": {
+            "crew_id": "JkWDa",
+            "description": "zstXBEcImkjqtqY",
+            "outage_cause": "BYkGVnyEnxy"
+        },
+        "id": "9194f1a0-3b96-42a3-89d2-e19b7b94097e",
+        "stage": "CLOSED",
+        "timestamp": 1628153546795,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "yGcvhlEgpCXRfUKpHFyLJdlWWOgcWJ",
+            "description": "F",
+            "outage_cause": "sSnbVWtctwKyg"
+        },
+        "id": "ca97905c-a7e1-4c6a-b3db-1ff93e6d3002",
+        "stage": "OPEN",
+        "timestamp": 1628153546805,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "nfbDjrKwlJkKtjCXTaYxfyuUzVWqoG",
+            "description": "LyaJwzguqDbKxQXDsxxCmmJwawmjars",
+            "outage_cause": "etdosZ"
+        },
+        "id": "8837d3b4-9c1b-475a-a8f2-b1620bd0bbce",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546805,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "PbxozkFrKKiwKhbDQlWtIGMh",
+            "description": "pUAsgmSVVAfHTy",
+            "outage_cause": "fgsvYeGbqvkRAOTUUktbRqzHXff"
+        },
+        "id": "89d47511-e9bb-45bc-b522-44d0805ce1ee",
+        "stage": "CLOSED",
+        "timestamp": 1628153546815,
+        "type": "OutageClosed"
+    },
+    {
+        "details": {
+            "crew_id": "KtMnvIdRWWKVUqgSruLYWYKGja",
+            "description": "DxgrAbYGdlMZtMExRcbAxJuWQbJhB",
+            "outage_cause": "SmzbmIHYGW"
+        },
+        "id": "efcef59d-9f69-4513-999c-167437154b15",
+        "stage": "CLOSED",
+        "timestamp": 1628153546815,
+        "type": "OutageCreated"
+    },
+    {
+        "details": {
+            "crew_id": "gVy",
+            "description": "eRHI",
+            "outage_cause": "XmAAePJgNpTeshRjiO"
+        },
+        "id": "71654fe2-6412-4ef3-8115-0076a8a784c7",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546825,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "gdFNlTtEUIvRHplmAknWLf",
+            "description": "WmYbztHhJXvkbfb",
+            "outage_cause": "VOHRXGsHNmdgrlwkkBUqjSyuvT"
+        },
+        "id": "934e366a-1abc-446a-bba6-6c4b0105de27",
+        "stage": "OPEN",
+        "timestamp": 1628153546834,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "QGV",
+            "description": "KtoInFxrWcqaNtbfpLtiayveQBGe",
+            "outage_cause": "CyCkZppwfNXE"
+        },
+        "id": "ca97905c-a7e1-4c6a-b3db-1ff93e6d3002",
+        "stage": "OPEN",
+        "timestamp": 1628153546836,
+        "type": "OutageCreated"
+    },
+    {
+        "details": {
+            "crew_id": "SDOmOrkvVW",
+            "description": "lDyUYfhbroMhqRtufUYLfxkZQ",
+            "outage_cause": "bCyDS"
+        },
+        "id": "d83c0f4a-324b-465d-b5ea-c358141563c2",
+        "stage": "CLOSED",
+        "timestamp": 1628153546846,
+        "type": "OutageCreated"
+    },
+    {
+        "details": {
+            "crew_id": "TToyItyTawFHqusptHDHwKoemFvM",
+            "description": "Vn",
+            "outage_cause": "ggPWwvxOgQHuai"
+        },
+        "id": "8837d3b4-9c1b-475a-a8f2-b1620bd0bbce",
+        "stage": "OPEN",
+        "timestamp": 1628153546846,
+        "type": "OutageClosed"
+    },
+    {
+        "details": {
+            "crew_id": "nULpcAwG",
+            "description": "TuLD",
+            "outage_cause": "hMAVDaPTeLTsGhsmKGDiZkol"
+        },
+        "id": "391fecfa-2dd6-45cc-8611-e78a9cafa851",
+        "stage": "CLOSED",
+        "timestamp": 1628153546856,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "L",
+            "description": "XsftPAnUi",
+            "outage_cause": "RjQLDwpdAL"
+        },
+        "id": "d83c0f4a-324b-465d-b5ea-c358141563c2",
+        "stage": "CLOSED",
+        "timestamp": 1628153546856,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "CRraUXmvxZLbcqcsLohxf",
+            "description": "yyOMyBwxTJvppltxunnoaTK",
+            "outage_cause": "IvwwhEPpHbqqYhMlcUBptwtg"
+        },
+        "id": "f3391a64-560f-4971-9f4d-91e8a61db9b2",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546856,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "GALKkAhWzmjKvEZrVcMHfcqxR",
+            "description": "nRcRkBpNTfRKHFZdwTYPLROBcDQL",
+            "outage_cause": "kkZYhkZHlv"
+        },
+        "id": "89d47511-e9bb-45bc-b522-44d0805ce1ee",
+        "stage": "OPEN",
+        "timestamp": 1628153546866,
+        "type": "OutageClosed"
+    },
+    {
+        "details": {
+            "crew_id": "zwCImWIAEpjnRpiedRMiZLDI",
+            "description": "HsM",
+            "outage_cause": "NnmKkXMuBcafKR"
+        },
+        "id": "3deac1a4-5ffc-40c6-90b6-6444a1c9d924",
+        "stage": "CLOSED",
+        "timestamp": 1628153546866,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "nNpSnvNHucfGIduMKZFZiJdu",
+            "description": "zYLWLJKVwzzMsM",
+            "outage_cause": "bfFCgQEkZLYUw"
+        },
+        "id": "26d441a0-96d9-48ea-afb7-ed4b7a164d9b",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546876,
+        "type": "OutageCreated"
+    },
+    {
+        "details": {
+            "crew_id": "fgpNbvFUiGZuj",
+            "description": "FmvNDHmjHDoxGhSiDpntqjyhws",
+            "outage_cause": "lOttwTeHXGky"
+        },
+        "id": "13639752-6dea-4383-8649-9533aed0905c",
+        "stage": "OPEN",
+        "timestamp": 1628153546876,
+        "type": "OutageClosed"
+    },
+    {
+        "details": {
+            "crew_id": "MPrREjVtN",
+            "description": "arMejISrbwhJZPQlXQ",
+            "outage_cause": "OjzvjiBFJhjslZzTtUUNSko"
+        },
+        "id": "13639752-6dea-4383-8649-9533aed0905c",
+        "stage": "OPEN",
+        "timestamp": 1628153546876,
+        "type": "OutageCreated"
+    },
+    {
+        "details": {
+            "crew_id": "mcvGocttrGeeVxr",
+            "description": "SzIxAOZfFeRACidDlVhWOja",
+            "outage_cause": "EcRBvHkjuyjPFFT"
+        },
+        "id": "c91fc68f-a1b1-4102-9db6-c0a32ca064bf",
+        "stage": "OPEN",
+        "timestamp": 1628153546886,
+        "type": "OutageCreated"
+    },
+    {
+        "details": {
+            "crew_id": "uPBpdkcrpXwrSuyWp",
+            "description": "tcQmPtww",
+            "outage_cause": "LT"
+        },
+        "id": "e9cf14cd-9150-4d47-ba1b-ace99e1d5ae8",
+        "stage": "OPEN",
+        "timestamp": 1628153546886,
+        "type": "OutageClosed"
+    },
+    {
+        "details": {
+            "crew_id": "NEqJFmdMHSpac",
+            "description": "ItZmXRBRisbuEHZyxV",
+            "outage_cause": "vRtPYXgvpkMkMkvfsj"
+        },
+        "id": "391fecfa-2dd6-45cc-8611-e78a9cafa851",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546886,
+        "type": "OutageClosed"
+    },
+    {
+        "details": {
+            "crew_id": "D",
+            "description": "wkDzBcloYARFNnTuGJtbEkAoQwdEF",
+            "outage_cause": "nfmTdoxVpllFherYLRgVSsrKdzpYSrT"
+        },
+        "id": "26d441a0-96d9-48ea-afb7-ed4b7a164d9b",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546896,
+        "type": "OutageCreated"
+    },
+    {
+        "details": {
+            "crew_id": "cWPMdpQLDSAJrhMjCJm",
+            "description": "rUKcOIGwasWHWMHxkClQVXDFZyIqqB",
+            "outage_cause": "RAzVpgIFUWwuZuKcj"
+        },
+        "id": "9194f1a0-3b96-42a3-89d2-e19b7b94097e",
+        "stage": "OPEN",
+        "timestamp": 1628153546897,
+        "type": "OutageCreated"
+    },
+    {
+        "details": {
+            "crew_id": "uDOYoVXsU",
+            "description": "Rtghdy",
+            "outage_cause": "RvfpBU"
+        },
+        "id": "3deac1a4-5ffc-40c6-90b6-6444a1c9d924",
+        "stage": "CLOSED",
+        "timestamp": 1628153546897,
+        "type": "OutageCreated"
+    },
+    {
+        "details": {
+            "crew_id": "zsNeIbhSIeCx",
+            "description": "EmnfQ",
+            "outage_cause": "WUUamVTLMoMNJB"
+        },
+        "id": "e37c027a-0102-41c5-aafb-21e7d8e5b461",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546906,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "cFDyxaIRtoPxbiexBjfA",
+            "description": "fCjBKA",
+            "outage_cause": "qvhXPvXyPBy"
+        },
+        "id": "71654fe2-6412-4ef3-8115-0076a8a784c7",
+        "stage": "OPEN",
+        "timestamp": 1628153546906,
+        "type": "OutageClosed"
+    },
+    {
+        "details": {
+            "crew_id": "FCudxRNbNDOzQRVgEclJPXcoRWAcN",
+            "description": "vdsj",
+            "outage_cause": "RY"
+        },
+        "id": "d83c0f4a-324b-465d-b5ea-c358141563c2",
+        "stage": "CLOSED",
+        "timestamp": 1628153546906,
+        "type": "OutageCreated"
+    },
+    {
+        "details": {
+            "crew_id": "HlBrvrFDzeknWxxIfIbHKH",
+            "description": "ijeSJTGWyBHV",
+            "outage_cause": "sTYGoDpdTaKigPUVgDDxjDCHnXlTdyu"
+        },
+        "id": "89d47511-e9bb-45bc-b522-44d0805ce1ee",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546906,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "bGFiarwLeNueQlIfxiOTkvwFUHCm",
+            "description": "TDToahHXS",
+            "outage_cause": "KbrYby"
+        },
+        "id": "618831ba-88b7-4fa7-a7e0-279a2effe967",
+        "stage": "CLOSED",
+        "timestamp": 1628153546917,
+        "type": "OutageCreated"
+    },
+    {
+        "details": {
+            "crew_id": "DGFwcKVFx",
+            "description": "KZWRUvlDsSjdYYAmbLGgcHRKlMvrJT",
+            "outage_cause": "mMV"
+        },
+        "id": "e37c027a-0102-41c5-aafb-21e7d8e5b461",
+        "stage": "CLOSED",
+        "timestamp": 1628153546917,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "nXgJBXDsSUKoyGDh",
+            "description": "vuiAJtPmxWiVrfgWITSA",
+            "outage_cause": "KGfz"
+        },
+        "id": "618831ba-88b7-4fa7-a7e0-279a2effe967",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546917,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "ttIsLvXyytcNfWlAZM",
+            "description": "LG",
+            "outage_cause": "mgVzxKnofjvMBK"
+        },
+        "id": "ca97905c-a7e1-4c6a-b3db-1ff93e6d3002",
+        "stage": "CLOSED",
+        "timestamp": 1628153546927,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "XYcGgCFucZrm",
+            "description": "mESYtSwWiVnScUmMgRaACnziytmyU",
+            "outage_cause": "uzeHVKWTNbNdZghuMAAQr"
+        },
+        "id": "537f2c2f-762c-46ec-8d4f-fcb16db13a88",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546927,
+        "type": "OutageClosed"
+    },
+    {
+        "details": {
+            "crew_id": "YbXwxyfQfgoAhWUSdGx",
+            "description": "NbN",
+            "outage_cause": "npvvRPYxSscMsfWxRCaNbjUvNhxfUZ"
+        },
+        "id": "8837d3b4-9c1b-475a-a8f2-b1620bd0bbce",
+        "stage": "OPEN",
+        "timestamp": 1628153546934,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "d",
+            "description": "PjPrnkDceFZtPJlgNlIfLyjNzb",
+            "outage_cause": "kb"
+        },
+        "id": "89d47511-e9bb-45bc-b522-44d0805ce1ee",
+        "stage": "CLOSED",
+        "timestamp": 1628153546937,
+        "type": "OutageClosed"
+    },
+    {
+        "details": {
+            "crew_id": "KaukMNOXxTDBEUIniRYTKSjJBcX",
+            "description": "WTznHCRMaexSmAYMf",
+            "outage_cause": "wGDBzK"
+        },
+        "id": "efcef59d-9f69-4513-999c-167437154b15",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546937,
+        "type": "OutageClosed"
+    },
+    {
+        "details": {
+            "crew_id": "WpRpgvduypO",
+            "description": "kXQQjllGeOaMz",
+            "outage_cause": "PcVasUcYKkrGeCwkKUWEsJMlurQwTOt"
+        },
+        "id": "391fecfa-2dd6-45cc-8611-e78a9cafa851",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546947,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "nkkt",
+            "description": "UHZ",
+            "outage_cause": "wISoulEUZcmvj"
+        },
+        "id": "c91fc68f-a1b1-4102-9db6-c0a32ca064bf",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546947,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "rCfuB",
+            "description": "TNkulKUWWGLTahmHAWokM",
+            "outage_cause": "rQsAmoshIuHxb"
+        },
+        "id": "d83c0f4a-324b-465d-b5ea-c358141563c2",
+        "stage": "OPEN",
+        "timestamp": 1628153546947,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "qIQFgAeHDIUuhCNSsmFgSmxVVYNRY",
+            "description": "HlzlZOMgRBBzH",
+            "outage_cause": "bZmXHNmOoHZMZGqx"
+        },
+        "id": "ca97905c-a7e1-4c6a-b3db-1ff93e6d3002",
+        "stage": "CLOSED",
+        "timestamp": 1628153546957,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "mLmYghgyRlhmoUnhzbwHDkjDfROjCM",
+            "description": "xWjsGFCLjlOY",
+            "outage_cause": "IJhwlhbPyUfVjTAoRGJTSREdLRJrNG"
+        },
+        "id": "ca97905c-a7e1-4c6a-b3db-1ff93e6d3002",
+        "stage": "OPEN",
+        "timestamp": 1628153546957,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "rgJCwTNOcwErKw",
+            "description": "FszlWSuD",
+            "outage_cause": "EnwOJKqVCDl"
+        },
+        "id": "f3391a64-560f-4971-9f4d-91e8a61db9b2",
+        "stage": "OPEN",
+        "timestamp": 1628153546969,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "SkCgG",
+            "description": "zqifqqs",
+            "outage_cause": "NkbdIhTmwBmpogIFRVo"
+        },
+        "id": "934e366a-1abc-446a-bba6-6c4b0105de27",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546973,
+        "type": "OutageCreated"
+    },
+    {
+        "details": {
+            "crew_id": "qYHtbmatdohWYL",
+            "description": "HqaYvVab",
+            "outage_cause": "dJoYPecJVaaLeNwfKzmQ"
+        },
+        "id": "e37c027a-0102-41c5-aafb-21e7d8e5b461",
+        "stage": "CLOSED",
+        "timestamp": 1628153546979,
+        "type": "OutageClosed"
+    },
+    {
+        "details": {
+            "crew_id": "qPa",
+            "description": "lDwkLsKkCYT",
+            "outage_cause": "JdZGTfQvfZvFWeyHqvyTEGoiGxtYbp"
+        },
+        "id": "3deac1a4-5ffc-40c6-90b6-6444a1c9d924",
+        "stage": "CLOSED",
+        "timestamp": 1628153546984,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "CkdLnjBVsykogKBSGEOoAjKxp",
+            "description": "siGPPTTzZ",
+            "outage_cause": "CxmsKVyPrtBaiH"
+        },
+        "id": "3deac1a4-5ffc-40c6-90b6-6444a1c9d924",
+        "stage": "OPEN",
+        "timestamp": 1628153546989,
+        "type": "OutageCreated"
+    },
+    {
+        "details": {
+            "crew_id": "Dm",
+            "description": "TyzV",
+            "outage_cause": "GkGqwlDfKb"
+        },
+        "id": "8408d240-ff7f-44d6-ac5b-5d1443e8a11b",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546994,
+        "type": "OutageClosed"
+    },
+    {
+        "details": {
+            "crew_id": "meSw",
+            "description": "mvqEdO",
+            "outage_cause": "BMTXxrLdokFWxRdKH"
+        },
+        "id": "26d441a0-96d9-48ea-afb7-ed4b7a164d9b",
+        "stage": "OPEN",
+        "timestamp": 1628153546998,
+        "type": "OutageCreated"
+    },
+    {
+        "details": {
+            "crew_id": "MROvgQMafYSSlCFlJwHUepEJDfVfqv",
+            "description": "WkaJvWgoUvFKXwVGMc",
+            "outage_cause": "zoDkorfFWodVtFSVOq"
+        },
+        "id": "8408d240-ff7f-44d6-ac5b-5d1443e8a11b",
+        "stage": "CLOSED",
+        "timestamp": 1628153546999,
+        "type": "OutageClosed"
+    },
+    {
+        "details": {
+            "crew_id": "hcpBKzHouKGZBxwB",
+            "description": "eKhjLQuu",
+            "outage_cause": "VcWJOQHwtthsIoeFPgfaJIceFjPaa"
+        },
+        "id": "efcef59d-9f69-4513-999c-167437154b15",
+        "stage": "CLOSED",
+        "timestamp": 1628153547008,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "tdJti",
+            "description": "leVjMshfHdgfxfXK",
+            "outage_cause": "RWGIOtEMGgyvtvBxCffAJFLvCrDBD"
+        },
+        "id": "c91fc68f-a1b1-4102-9db6-c0a32ca064bf",
+        "stage": "OPEN",
+        "timestamp": 1628153547008,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "AMlUlvajxVP",
+            "description": "QvdvcxRBasiREfkCBgLpGZulLxatH",
+            "outage_cause": "GuVXSLKoMPsFzzTacOLnxscSsGJYLrK"
+        },
+        "id": "e9cf14cd-9150-4d47-ba1b-ace99e1d5ae8",
+        "stage": "CLOSED",
+        "timestamp": 1628153547008,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "wTCJZFlSuOlWDgAA",
+            "description": "BiUsdtYr",
+            "outage_cause": "xcrdK"
+        },
+        "id": "26d441a0-96d9-48ea-afb7-ed4b7a164d9b",
+        "stage": "OPEN",
+        "timestamp": 1628153547008,
+        "type": "OutageCreated"
+    },
+    {
+        "details": {
+            "crew_id": "FlsOeiTiQxd",
+            "description": "GjvRqcsXeHME",
+            "outage_cause": "yAfhGfjTTSefQ"
+        },
+        "id": "3deac1a4-5ffc-40c6-90b6-6444a1c9d924",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153547023,
+        "type": "OutageClosed"
+    },
+    {
+        "details": {
+            "crew_id": "QAKxXyJEAZBrKSSVNVX",
+            "description": "TERvFaIpyUavRYSLXCYQKqHFz",
+            "outage_cause": "lXiQbpBCwYPmaq"
+        },
+        "id": "89d47511-e9bb-45bc-b522-44d0805ce1ee",
+        "stage": "CLOSED",
+        "timestamp": 1628153547028,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "IYprvdegCOxpAfAcRjmDuQjXCCS",
+            "description": "SIxdFltTfpv",
+            "outage_cause": "ntnQzcFHczWlNBCQQAeiMkEvQS"
+        },
+        "id": "e9cf14cd-9150-4d47-ba1b-ace99e1d5ae8",
+        "stage": "CLOSED",
+        "timestamp": 1628153547028,
+        "type": "OutageCreated"
+    },
+    {
+        "details": {
+            "crew_id": "gqnbXjIKKqciIHE",
+            "description": "jZymRjzNCuzereVzkbDJiLsP",
+            "outage_cause": "SRIoMNZEZoNXHeRlOjzGnGpI"
+        },
+        "id": "f3391a64-560f-4971-9f4d-91e8a61db9b2",
+        "stage": "OPEN",
+        "timestamp": 1628153547036,
+        "type": "OutageCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "pjvX",
+            "description": "gBYdfGIfQksqhvmSDVOVUKTxPVixHdl",
+            "outage_cause": "dQMVjAfSUjpoMzJDqtnwmEXdOmSg"
+        },
+        "id": "3deac1a4-5ffc-40c6-90b6-6444a1c9d924",
+        "stage": "CLOSED",
+        "timestamp": 1628153547036,
+        "type": "OutageClosed"
+    },
+    {
+        "details": {
+            "crew_id": "uyvqmJlhHmkAcksCP",
+            "description": "NtFsBGlDQpwXAItFXDMkl",
+            "outage_cause": "oMVMOVxpDxWSkCLEBwnShargCpDgFuG"
+        },
+        "id": "89d47511-e9bb-45bc-b522-44d0805ce1ee",
+        "stage": "OPEN",
+        "timestamp": 1628153547036,
+        "type": "OutageCreated"
+    },
+    {
+        "details": {
+            "crew_id": "CHFXhwKjrAMhCoPWeBGMiKjKVJ",
+            "description": "SKPNomOLFjhxuukPQh",
+            "outage_cause": "vaINleTXFsaJWrHbxxRduzKrJcEwtEm"
+        },
+        "id": "8408d240-ff7f-44d6-ac5b-5d1443e8a11b",
+        "stage": "OPEN",
+        "timestamp": 1628153547044,
+        "type": "OutageCrewAssigned"
+    }
+]

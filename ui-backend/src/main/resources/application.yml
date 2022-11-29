@@ -1,0 +1,30 @@
+spring:
+  autoconfigure:
+    exclude: org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration
+  redis:
+    host: localhost
+    port: 6379
+    password: _123redis123_
+    hashName:
+      detail: Detail
+      malfunction: Malfunction
+  kafka:
+    bootstrap-servers: localhost:9092
+    producer:
+      topic: EVENT
+      time-interval: 0
+    consumer:
+      group-id: demo
+      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+      auto-offset-reset: earliest
+      value-deserializer: org.springframework.kafka.support.serializer.JsonDeserializer
+      bootstrap-servers: localhost:9092
+      max-retry: 3
+      properties:
+        spring:
+          json:
+            trusted:
+              packages: "*"
+
+server:
+  port: 8085

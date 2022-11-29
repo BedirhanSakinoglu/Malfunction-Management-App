@@ -1,0 +1,30 @@
+schema {
+    query: Query
+    mutation: Mutation
+}
+
+type Query {
+    allMalfunctions: [Malfunction]
+    malfunction(id: String): Malfunction
+    detail(id: String): Detail
+}
+
+type Mutation{
+    updateMalfunction(malfunctionId:String, stage:String, crew_id:String, description:String, malfunction_cause:String): Malfunction
+    deleteMalfunction(id: String): String
+}
+
+type Malfunction {
+    malfunctionId: String
+    startTimestamp: Float
+    endTimestamp: Float
+    stage: [String]
+    details: Detail
+}
+
+type Detail {
+    detailId: String
+    crew_id: String
+    description: String
+    malfunction_cause: String
+}

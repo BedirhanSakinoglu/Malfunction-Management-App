@@ -1,0 +1,1102 @@
+[
+    {
+        "details": {
+            "crew_id": "grkyNfKWq",
+            "description": "BZK",
+            "malfunction_cause": "HyXrseClioAiDQYDxflUZ"
+        },
+        "id": "8408d240-ff7f-44d6-ac5b-5d1443e8a11b",
+        "stage": "CLOSED",
+        "timestamp": 1628153546604,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "UrcbLdxlYtusTUczCvHZQQS",
+            "description": "QXxBrAgK",
+            "malfunction_cause": "jPTNvdyhIPbGuLcGdl"
+        },
+        "id": "26d441a0-96d9-48ea-afb7-ed4b7a164d9b",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546612,
+        "type": "MalfunctionCreated"
+    },
+    {
+        "details": {
+            "crew_id": "FarFMZENPwxPKqXWiysIFwhidMEdjqW",
+            "description": "fiuD",
+            "malfunction_cause": "BmGmXb"
+        },
+        "id": "5f33bd28-a76a-4420-858a-4d6fab9d0548",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546622,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "PVWLTBY",
+            "description": "SRbGBuUZMumMecTvvFSJd",
+            "malfunction_cause": "GTrIpwvqmjkdwJZEzVE"
+        },
+        "id": "391fecfa-2dd6-45cc-8611-e78a9cafa851",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546623,
+        "type": "MalfunctionCreated"
+    },
+    {
+        "details": {
+            "crew_id": "ewrhJLdLuo",
+            "description": "WStLuOpIwVwLb",
+            "malfunction_cause": "biGKgSmjNrbxGNxYIeWHOTnh"
+        },
+        "id": "537f2c2f-762c-46ec-8d4f-fcb16db13a88",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546623,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "rDbOPPNcPikYkjhZSnqUeGVgDgHGXC",
+            "description": "VoIAxUOPSeKvb",
+            "malfunction_cause": "mhnmdFJYoBkxzzpdLwyrGbArJbyRaJ"
+        },
+        "id": "ca97905c-a7e1-4c6a-b3db-1ff93e6d3002",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546633,
+        "type": "MalfunctionClosed"
+    },
+    {
+        "details": {
+            "crew_id": "GWgGhFYQnPUalRVElVmXjLVxVeJ",
+            "description": "uhrUUywzvXnBGfWiMMVIZvpqiuUIcoa",
+            "malfunction_cause": "bydaXsjmttTWESUXbxfgM"
+        },
+        "id": "9194f1a0-3b96-42a3-89d2-e19b7b94097e",
+        "stage": "OPEN",
+        "timestamp": 1628153546634,
+        "type": "MalfunctionCreated"
+    },
+    {
+        "details": {
+            "crew_id": "EgLFwmFAPbB",
+            "description": "CFVsTUzEQWxuvHtyHQSu",
+            "malfunction_cause": "EYjukZ"
+        },
+        "id": "f3391a64-560f-4971-9f4d-91e8a61db9b2",
+        "stage": "OPEN",
+        "timestamp": 1628153546634,
+        "type": "MalfunctionClosed"
+    },
+    {
+        "details": {
+            "crew_id": "MXnbmzEuzJsHrfvFTcREb",
+            "description": "vYVrnNWLaswbfofqDJ",
+            "malfunction_cause": "DrTGb"
+        },
+        "id": "89d47511-e9bb-45bc-b522-44d0805ce1ee",
+        "stage": "OPEN",
+        "timestamp": 1628153546643,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "yRyJrvuvWkPs",
+            "description": "VhTcZuGBOYd",
+            "malfunction_cause": "bdcuU"
+        },
+        "id": "934e366a-1abc-446a-bba6-6c4b0105de27",
+        "stage": "OPEN",
+        "timestamp": 1628153546643,
+        "type": "MalfunctionClosed"
+    },
+    {
+        "details": {
+            "crew_id": "CUP",
+            "description": "XKJifaxWDpjuxnmjzSgLLHapJR",
+            "malfunction_cause": "XEOhTugOavmsKjYXAxqCNoDZjiOxb"
+        },
+        "id": "e37c027a-0102-41c5-aafb-21e7d8e5b461",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546653,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "ZuBefmwVjyigUNe",
+            "description": "DsUPAyTyQIVyorKHEwrgFG",
+            "malfunction_cause": "AkHeVDXcnYhioyWYELuRRb"
+        },
+        "id": "c91fc68f-a1b1-4102-9db6-c0a32ca064bf",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546659,
+        "type": "MalfunctionClosed"
+    },
+    {
+        "details": {
+            "crew_id": "MUSMakRupnHixy",
+            "description": "RFOhYdPQssNn",
+            "malfunction_cause": "wU"
+        },
+        "id": "71654fe2-6412-4ef3-8115-0076a8a784c7",
+        "stage": "CLOSED",
+        "timestamp": 1628153546663,
+        "type": "MalfunctionClosed"
+    },
+    {
+        "details": {
+            "crew_id": "lGrRmWdGhf",
+            "description": "ODIAlRhkvJuwZVR",
+            "malfunction_cause": "aK"
+        },
+        "id": "d83c0f4a-324b-465d-b5ea-c358141563c2",
+        "stage": "CLOSED",
+        "timestamp": 1628153546663,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "laiHrEjPKrBXfZVhowEvrEcDO",
+            "description": "WaKPtV",
+            "malfunction_cause": "EgWkFQPRznAmOrbzyunurUVAG"
+        },
+        "id": "618831ba-88b7-4fa7-a7e0-279a2effe967",
+        "stage": "CLOSED",
+        "timestamp": 1628153546663,
+        "type": "MalfunctionCreated"
+    },
+    {
+        "details": {
+            "crew_id": "QkMifwhZJn",
+            "description": "PdH",
+            "malfunction_cause": "rBcWMojoHaorACcSfiwoTHSsQRkz"
+        },
+        "id": "8837d3b4-9c1b-475a-a8f2-b1620bd0bbce",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546673,
+        "type": "MalfunctionCreated"
+    },
+    {
+        "details": {
+            "crew_id": "ceTZNXaJzzFQxILgUhNUe",
+            "description": "VXmCPsjHfAlL",
+            "malfunction_cause": "gXZtEKsdtNfLm"
+        },
+        "id": "e9cf14cd-9150-4d47-ba1b-ace99e1d5ae8",
+        "stage": "CLOSED",
+        "timestamp": 1628153546677,
+        "type": "MalfunctionCreated"
+    },
+    {
+        "details": {
+            "crew_id": "epLpccMtewannRpOxUryBMCucIOMQ",
+            "description": "vcwGVIAWqOLtgRWAcbXvsqfpn",
+            "malfunction_cause": "UrTHdXMzrujdR"
+        },
+        "id": "3deac1a4-5ffc-40c6-90b6-6444a1c9d924",
+        "stage": "OPEN",
+        "timestamp": 1628153546683,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "JBysubTRkDhCClwMeAJaoKKhnHFFm",
+            "description": "nyhAmdza",
+            "malfunction_cause": "tsmdriSGmMLGVY"
+        },
+        "id": "13639752-6dea-4383-8649-9533aed0905c",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546683,
+        "type": "MalfunctionClosed"
+    },
+    {
+        "details": {
+            "crew_id": "DZPVmzhRsweiPDS",
+            "description": "XNAsvGbtpJeRlPFIVnx",
+            "malfunction_cause": "tsshTKhYZCvyyspQRtrDoeNFMiP"
+        },
+        "id": "efcef59d-9f69-4513-999c-167437154b15",
+        "stage": "CLOSED",
+        "timestamp": 1628153546683,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "ALVNTUoNglITNmVFXcty",
+            "description": "yWYBsD",
+            "malfunction_cause": "YbUiheuzR"
+        },
+        "id": "efcef59d-9f69-4513-999c-167437154b15",
+        "stage": "OPEN",
+        "timestamp": 1628153546694,
+        "type": "MalfunctionClosed"
+    },
+    {
+        "details": {
+            "crew_id": "kxoZRuvKSnHWUyowLtY",
+            "description": "szr",
+            "malfunction_cause": "ujCoSQskQV"
+        },
+        "id": "8837d3b4-9c1b-475a-a8f2-b1620bd0bbce",
+        "stage": "CLOSED",
+        "timestamp": 1628153546694,
+        "type": "MalfunctionClosed"
+    },
+    {
+        "details": {
+            "crew_id": "VuPwjTgWK",
+            "description": "ReOQfIJxyyjodNbpGmJ",
+            "malfunction_cause": "UHsslCnbfqYDTvbPn"
+        },
+        "id": "efcef59d-9f69-4513-999c-167437154b15",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546704,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "VErdapvIAnlmuW",
+            "description": "OyulhAVzqkkmtl",
+            "malfunction_cause": "ZTxDQeOKqbFUz"
+        },
+        "id": "934e366a-1abc-446a-bba6-6c4b0105de27",
+        "stage": "CLOSED",
+        "timestamp": 1628153546714,
+        "type": "MalfunctionClosed"
+    },
+    {
+        "details": {
+            "crew_id": "EFlfmibIPGAwhsFQHkQqOcI",
+            "description": "RsFmVXQNSoSRDfctjbkIWlcxuE",
+            "malfunction_cause": "TVHLTRz"
+        },
+        "id": "391fecfa-2dd6-45cc-8611-e78a9cafa851",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546714,
+        "type": "MalfunctionCreated"
+    },
+    {
+        "details": {
+            "crew_id": "yvdpTdrFesCAvLp",
+            "description": "asOTFksal",
+            "malfunction_cause": "qnhBiLpN"
+        },
+        "id": "f3391a64-560f-4971-9f4d-91e8a61db9b2",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546724,
+        "type": "MalfunctionClosed"
+    },
+    {
+        "details": {
+            "crew_id": "ltcsFEuvJacWtsoxKQCKp",
+            "description": "KblKJo",
+            "malfunction_cause": "DxKvxFJdTWalX"
+        },
+        "id": "618831ba-88b7-4fa7-a7e0-279a2effe967",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546734,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "fMRuIvak",
+            "description": "p",
+            "malfunction_cause": "QuVcIltdARgNmDgqaOhxFxITQxE"
+        },
+        "id": "3deac1a4-5ffc-40c6-90b6-6444a1c9d924",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546734,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "BtQKIqAZfyGCubLhjeiRKyDIpgxvF",
+            "description": "sFbqyPljxVXLGhsPoGyAdXD",
+            "malfunction_cause": "PTtmVdShctfkgkprR"
+        },
+        "id": "934e366a-1abc-446a-bba6-6c4b0105de27",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546734,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "nudfXAHeGxpGfASQRflgp",
+            "description": "BnMFwRSKtUsFdIiIzXVHibyExfVW",
+            "malfunction_cause": "IyDXdERREA"
+        },
+        "id": "618831ba-88b7-4fa7-a7e0-279a2effe967",
+        "stage": "CLOSED",
+        "timestamp": 1628153546744,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "mmEBdnMNtIGNQzTGHnvRTxcMAOt",
+            "description": "aiEsGyvIcV",
+            "malfunction_cause": "UdgBXPfAzVtVhNvGMJdFiCBoiecfj"
+        },
+        "id": "9194f1a0-3b96-42a3-89d2-e19b7b94097e",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546744,
+        "type": "MalfunctionCreated"
+    },
+    {
+        "details": {
+            "crew_id": "wFtaGHRCWNLrxSkljHlN",
+            "description": "iBKMMNMLW",
+            "malfunction_cause": "dlRuWlJCTR"
+        },
+        "id": "3deac1a4-5ffc-40c6-90b6-6444a1c9d924",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546754,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "UJhNpLBvMBgJRxuDfKXGcjgqA",
+            "description": "uDKlKxrZOAMp",
+            "malfunction_cause": "rFybpkOOFcCWASKYCimgWMRZEobju"
+        },
+        "id": "e9cf14cd-9150-4d47-ba1b-ace99e1d5ae8",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546754,
+        "type": "MalfunctionCreated"
+    },
+    {
+        "details": {
+            "crew_id": "leZgvjXEOeHbbphpDNy",
+            "description": "MqzmidVmimO",
+            "malfunction_cause": "wztZWUprITF"
+        },
+        "id": "ca97905c-a7e1-4c6a-b3db-1ff93e6d3002",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546764,
+        "type": "MalfunctionCreated"
+    },
+    {
+        "details": {
+            "crew_id": "dVVRHQjVZFWFWAHeppg",
+            "description": "CpRoCYYmWiygxo",
+            "malfunction_cause": "wESftXbyZjkyJkHNtqiarVjAxKjq"
+        },
+        "id": "618831ba-88b7-4fa7-a7e0-279a2effe967",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546764,
+        "type": "MalfunctionCreated"
+    },
+    {
+        "details": {
+            "crew_id": "lDHxiImCmhXRoKelpLsD",
+            "description": "OxowmALpbviGVpIMDDSlEDTAKBMz",
+            "malfunction_cause": "FYpJ"
+        },
+        "id": "89d47511-e9bb-45bc-b522-44d0805ce1ee",
+        "stage": "CLOSED",
+        "timestamp": 1628153546774,
+        "type": "MalfunctionClosed"
+    },
+    {
+        "details": {
+            "crew_id": "TYvRLDdggSZcBrKqHzlvzKUsi",
+            "description": "sYbmgchWJr",
+            "malfunction_cause": "exRRpvDgnzlmuJWrAXo"
+        },
+        "id": "e9cf14cd-9150-4d47-ba1b-ace99e1d5ae8",
+        "stage": "CLOSED",
+        "timestamp": 1628153546774,
+        "type": "MalfunctionCreated"
+    },
+    {
+        "details": {
+            "crew_id": "QluwNGDlbBlmcUoRbdaPJ",
+            "description": "FIheEtunDhlXWOLamdCyBxWKngE",
+            "malfunction_cause": "vcKsDbBdjCgAsorCskMDnAdyh"
+        },
+        "id": "9194f1a0-3b96-42a3-89d2-e19b7b94097e",
+        "stage": "CLOSED",
+        "timestamp": 1628153546785,
+        "type": "MalfunctionClosed"
+    },
+    {
+        "details": {
+            "crew_id": "VZId",
+            "description": "ibpqJOJtNVLhbvebIYcKJNKQHgbb",
+            "malfunction_cause": "lpbmqKXGJasxykRnFdI"
+        },
+        "id": "26d441a0-96d9-48ea-afb7-ed4b7a164d9b",
+        "stage": "CLOSED",
+        "timestamp": 1628153546785,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "enCsXPgDucMabpADxvHYXhdwiT",
+            "description": "hixGAcqQMEDCvGM",
+            "malfunction_cause": "OygocbpJzYNRPHWVjlOQcFAn"
+        },
+        "id": "618831ba-88b7-4fa7-a7e0-279a2effe967",
+        "stage": "OPEN",
+        "timestamp": 1628153546795,
+        "type": "MalfunctionClosed"
+    },
+    {
+        "details": {
+            "crew_id": "JkWDa",
+            "description": "zstXBEcImkjqtqY",
+            "malfunction_cause": "BYkGVnyEnxy"
+        },
+        "id": "9194f1a0-3b96-42a3-89d2-e19b7b94097e",
+        "stage": "CLOSED",
+        "timestamp": 1628153546795,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "yGcvhlEgpCXRfUKpHFyLJdlWWOgcWJ",
+            "description": "F",
+            "malfunction_cause": "sSnbVWtctwKyg"
+        },
+        "id": "ca97905c-a7e1-4c6a-b3db-1ff93e6d3002",
+        "stage": "OPEN",
+        "timestamp": 1628153546805,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "nfbDjrKwlJkKtjCXTaYxfyuUzVWqoG",
+            "description": "LyaJwzguqDbKxQXDsxxCmmJwawmjars",
+            "malfunction_cause": "etdosZ"
+        },
+        "id": "8837d3b4-9c1b-475a-a8f2-b1620bd0bbce",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546805,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "PbxozkFrKKiwKhbDQlWtIGMh",
+            "description": "pUAsgmSVVAfHTy",
+            "malfunction_cause": "fgsvYeGbqvkRAOTUUktbRqzHXff"
+        },
+        "id": "89d47511-e9bb-45bc-b522-44d0805ce1ee",
+        "stage": "CLOSED",
+        "timestamp": 1628153546815,
+        "type": "MalfunctionClosed"
+    },
+    {
+        "details": {
+            "crew_id": "KtMnvIdRWWKVUqgSruLYWYKGja",
+            "description": "DxgrAbYGdlMZtMExRcbAxJuWQbJhB",
+            "malfunction_cause": "SmzbmIHYGW"
+        },
+        "id": "efcef59d-9f69-4513-999c-167437154b15",
+        "stage": "CLOSED",
+        "timestamp": 1628153546815,
+        "type": "MalfunctionCreated"
+    },
+    {
+        "details": {
+            "crew_id": "gVy",
+            "description": "eRHI",
+            "malfunction_cause": "XmAAePJgNpTeshRjiO"
+        },
+        "id": "71654fe2-6412-4ef3-8115-0076a8a784c7",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546825,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "gdFNlTtEUIvRHplmAknWLf",
+            "description": "WmYbztHhJXvkbfb",
+            "malfunction_cause": "VOHRXGsHNmdgrlwkkBUqjSyuvT"
+        },
+        "id": "934e366a-1abc-446a-bba6-6c4b0105de27",
+        "stage": "OPEN",
+        "timestamp": 1628153546834,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "QGV",
+            "description": "KtoInFxrWcqaNtbfpLtiayveQBGe",
+            "malfunction_cause": "CyCkZppwfNXE"
+        },
+        "id": "ca97905c-a7e1-4c6a-b3db-1ff93e6d3002",
+        "stage": "OPEN",
+        "timestamp": 1628153546836,
+        "type": "MalfunctionCreated"
+    },
+    {
+        "details": {
+            "crew_id": "SDOmOrkvVW",
+            "description": "lDyUYfhbroMhqRtufUYLfxkZQ",
+            "malfunction_cause": "bCyDS"
+        },
+        "id": "d83c0f4a-324b-465d-b5ea-c358141563c2",
+        "stage": "CLOSED",
+        "timestamp": 1628153546846,
+        "type": "MalfunctionCreated"
+    },
+    {
+        "details": {
+            "crew_id": "TToyItyTawFHqusptHDHwKoemFvM",
+            "description": "Vn",
+            "malfunction_cause": "ggPWwvxOgQHuai"
+        },
+        "id": "8837d3b4-9c1b-475a-a8f2-b1620bd0bbce",
+        "stage": "OPEN",
+        "timestamp": 1628153546846,
+        "type": "MalfunctionClosed"
+    },
+    {
+        "details": {
+            "crew_id": "nULpcAwG",
+            "description": "TuLD",
+            "malfunction_cause": "hMAVDaPTeLTsGhsmKGDiZkol"
+        },
+        "id": "391fecfa-2dd6-45cc-8611-e78a9cafa851",
+        "stage": "CLOSED",
+        "timestamp": 1628153546856,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "L",
+            "description": "XsftPAnUi",
+            "malfunction_cause": "RjQLDwpdAL"
+        },
+        "id": "d83c0f4a-324b-465d-b5ea-c358141563c2",
+        "stage": "CLOSED",
+        "timestamp": 1628153546856,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "CRraUXmvxZLbcqcsLohxf",
+            "description": "yyOMyBwxTJvppltxunnoaTK",
+            "malfunction_cause": "IvwwhEPpHbqqYhMlcUBptwtg"
+        },
+        "id": "f3391a64-560f-4971-9f4d-91e8a61db9b2",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546856,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "GALKkAhWzmjKvEZrVcMHfcqxR",
+            "description": "nRcRkBpNTfRKHFZdwTYPLROBcDQL",
+            "malfunction_cause": "kkZYhkZHlv"
+        },
+        "id": "89d47511-e9bb-45bc-b522-44d0805ce1ee",
+        "stage": "OPEN",
+        "timestamp": 1628153546866,
+        "type": "MalfunctionClosed"
+    },
+    {
+        "details": {
+            "crew_id": "zwCImWIAEpjnRpiedRMiZLDI",
+            "description": "HsM",
+            "malfunction_cause": "NnmKkXMuBcafKR"
+        },
+        "id": "3deac1a4-5ffc-40c6-90b6-6444a1c9d924",
+        "stage": "CLOSED",
+        "timestamp": 1628153546866,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "nNpSnvNHucfGIduMKZFZiJdu",
+            "description": "zYLWLJKVwzzMsM",
+            "malfunction_cause": "bfFCgQEkZLYUw"
+        },
+        "id": "26d441a0-96d9-48ea-afb7-ed4b7a164d9b",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546876,
+        "type": "MalfunctionCreated"
+    },
+    {
+        "details": {
+            "crew_id": "fgpNbvFUiGZuj",
+            "description": "FmvNDHmjHDoxGhSiDpntqjyhws",
+            "malfunction_cause": "lOttwTeHXGky"
+        },
+        "id": "13639752-6dea-4383-8649-9533aed0905c",
+        "stage": "OPEN",
+        "timestamp": 1628153546876,
+        "type": "MalfunctionClosed"
+    },
+    {
+        "details": {
+            "crew_id": "MPrREjVtN",
+            "description": "arMejISrbwhJZPQlXQ",
+            "malfunction_cause": "OjzvjiBFJhjslZzTtUUNSko"
+        },
+        "id": "13639752-6dea-4383-8649-9533aed0905c",
+        "stage": "OPEN",
+        "timestamp": 1628153546876,
+        "type": "MalfunctionCreated"
+    },
+    {
+        "details": {
+            "crew_id": "mcvGocttrGeeVxr",
+            "description": "SzIxAOZfFeRACidDlVhWOja",
+            "malfunction_cause": "EcRBvHkjuyjPFFT"
+        },
+        "id": "c91fc68f-a1b1-4102-9db6-c0a32ca064bf",
+        "stage": "OPEN",
+        "timestamp": 1628153546886,
+        "type": "MalfunctionCreated"
+    },
+    {
+        "details": {
+            "crew_id": "uPBpdkcrpXwrSuyWp",
+            "description": "tcQmPtww",
+            "malfunction_cause": "LT"
+        },
+        "id": "e9cf14cd-9150-4d47-ba1b-ace99e1d5ae8",
+        "stage": "OPEN",
+        "timestamp": 1628153546886,
+        "type": "MalfunctionClosed"
+    },
+    {
+        "details": {
+            "crew_id": "NEqJFmdMHSpac",
+            "description": "ItZmXRBRisbuEHZyxV",
+            "malfunction_cause": "vRtPYXgvpkMkMkvfsj"
+        },
+        "id": "391fecfa-2dd6-45cc-8611-e78a9cafa851",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546886,
+        "type": "MalfunctionClosed"
+    },
+    {
+        "details": {
+            "crew_id": "D",
+            "description": "wkDzBcloYARFNnTuGJtbEkAoQwdEF",
+            "malfunction_cause": "nfmTdoxVpllFherYLRgVSsrKdzpYSrT"
+        },
+        "id": "26d441a0-96d9-48ea-afb7-ed4b7a164d9b",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546896,
+        "type": "MalfunctionCreated"
+    },
+    {
+        "details": {
+            "crew_id": "cWPMdpQLDSAJrhMjCJm",
+            "description": "rUKcOIGwasWHWMHxkClQVXDFZyIqqB",
+            "malfunction_cause": "RAzVpgIFUWwuZuKcj"
+        },
+        "id": "9194f1a0-3b96-42a3-89d2-e19b7b94097e",
+        "stage": "OPEN",
+        "timestamp": 1628153546897,
+        "type": "MalfunctionCreated"
+    },
+    {
+        "details": {
+            "crew_id": "uDOYoVXsU",
+            "description": "Rtghdy",
+            "malfunction_cause": "RvfpBU"
+        },
+        "id": "3deac1a4-5ffc-40c6-90b6-6444a1c9d924",
+        "stage": "CLOSED",
+        "timestamp": 1628153546897,
+        "type": "MalfunctionCreated"
+    },
+    {
+        "details": {
+            "crew_id": "zsNeIbhSIeCx",
+            "description": "EmnfQ",
+            "malfunction_cause": "WUUamVTLMoMNJB"
+        },
+        "id": "e37c027a-0102-41c5-aafb-21e7d8e5b461",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546906,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "cFDyxaIRtoPxbiexBjfA",
+            "description": "fCjBKA",
+            "malfunction_cause": "qvhXPvXyPBy"
+        },
+        "id": "71654fe2-6412-4ef3-8115-0076a8a784c7",
+        "stage": "OPEN",
+        "timestamp": 1628153546906,
+        "type": "MalfunctionClosed"
+    },
+    {
+        "details": {
+            "crew_id": "FCudxRNbNDOzQRVgEclJPXcoRWAcN",
+            "description": "vdsj",
+            "malfunction_cause": "RY"
+        },
+        "id": "d83c0f4a-324b-465d-b5ea-c358141563c2",
+        "stage": "CLOSED",
+        "timestamp": 1628153546906,
+        "type": "MalfunctionCreated"
+    },
+    {
+        "details": {
+            "crew_id": "HlBrvrFDzeknWxxIfIbHKH",
+            "description": "ijeSJTGWyBHV",
+            "malfunction_cause": "sTYGoDpdTaKigPUVgDDxjDCHnXlTdyu"
+        },
+        "id": "89d47511-e9bb-45bc-b522-44d0805ce1ee",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546906,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "bGFiarwLeNueQlIfxiOTkvwFUHCm",
+            "description": "TDToahHXS",
+            "malfunction_cause": "KbrYby"
+        },
+        "id": "618831ba-88b7-4fa7-a7e0-279a2effe967",
+        "stage": "CLOSED",
+        "timestamp": 1628153546917,
+        "type": "MalfunctionCreated"
+    },
+    {
+        "details": {
+            "crew_id": "DGFwcKVFx",
+            "description": "KZWRUvlDsSjdYYAmbLGgcHRKlMvrJT",
+            "malfunction_cause": "mMV"
+        },
+        "id": "e37c027a-0102-41c5-aafb-21e7d8e5b461",
+        "stage": "CLOSED",
+        "timestamp": 1628153546917,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "nXgJBXDsSUKoyGDh",
+            "description": "vuiAJtPmxWiVrfgWITSA",
+            "malfunction_cause": "KGfz"
+        },
+        "id": "618831ba-88b7-4fa7-a7e0-279a2effe967",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546917,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "ttIsLvXyytcNfWlAZM",
+            "description": "LG",
+            "malfunction_cause": "mgVzxKnofjvMBK"
+        },
+        "id": "ca97905c-a7e1-4c6a-b3db-1ff93e6d3002",
+        "stage": "CLOSED",
+        "timestamp": 1628153546927,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "XYcGgCFucZrm",
+            "description": "mESYtSwWiVnScUmMgRaACnziytmyU",
+            "malfunction_cause": "uzeHVKWTNbNdZghuMAAQr"
+        },
+        "id": "537f2c2f-762c-46ec-8d4f-fcb16db13a88",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546927,
+        "type": "MalfunctionClosed"
+    },
+    {
+        "details": {
+            "crew_id": "YbXwxyfQfgoAhWUSdGx",
+            "description": "NbN",
+            "malfunction_cause": "npvvRPYxSscMsfWxRCaNbjUvNhxfUZ"
+        },
+        "id": "8837d3b4-9c1b-475a-a8f2-b1620bd0bbce",
+        "stage": "OPEN",
+        "timestamp": 1628153546934,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "d",
+            "description": "PjPrnkDceFZtPJlgNlIfLyjNzb",
+            "malfunction_cause": "kb"
+        },
+        "id": "89d47511-e9bb-45bc-b522-44d0805ce1ee",
+        "stage": "CLOSED",
+        "timestamp": 1628153546937,
+        "type": "MalfunctionClosed"
+    },
+    {
+        "details": {
+            "crew_id": "KaukMNOXxTDBEUIniRYTKSjJBcX",
+            "description": "WTznHCRMaexSmAYMf",
+            "malfunction_cause": "wGDBzK"
+        },
+        "id": "efcef59d-9f69-4513-999c-167437154b15",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546937,
+        "type": "MalfunctionClosed"
+    },
+    {
+        "details": {
+            "crew_id": "WpRpgvduypO",
+            "description": "kXQQjllGeOaMz",
+            "malfunction_cause": "PcVasUcYKkrGeCwkKUWEsJMlurQwTOt"
+        },
+        "id": "391fecfa-2dd6-45cc-8611-e78a9cafa851",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546947,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "nkkt",
+            "description": "UHZ",
+            "malfunction_cause": "wISoulEUZcmvj"
+        },
+        "id": "c91fc68f-a1b1-4102-9db6-c0a32ca064bf",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546947,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "rCfuB",
+            "description": "TNkulKUWWGLTahmHAWokM",
+            "malfunction_cause": "rQsAmoshIuHxb"
+        },
+        "id": "d83c0f4a-324b-465d-b5ea-c358141563c2",
+        "stage": "OPEN",
+        "timestamp": 1628153546947,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "qIQFgAeHDIUuhCNSsmFgSmxVVYNRY",
+            "description": "HlzlZOMgRBBzH",
+            "malfunction_cause": "bZmXHNmOoHZMZGqx"
+        },
+        "id": "ca97905c-a7e1-4c6a-b3db-1ff93e6d3002",
+        "stage": "CLOSED",
+        "timestamp": 1628153546957,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "mLmYghgyRlhmoUnhzbwHDkjDfROjCM",
+            "description": "xWjsGFCLjlOY",
+            "malfunction_cause": "IJhwlhbPyUfVjTAoRGJTSREdLRJrNG"
+        },
+        "id": "ca97905c-a7e1-4c6a-b3db-1ff93e6d3002",
+        "stage": "OPEN",
+        "timestamp": 1628153546957,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "rgJCwTNOcwErKw",
+            "description": "FszlWSuD",
+            "malfunction_cause": "EnwOJKqVCDl"
+        },
+        "id": "f3391a64-560f-4971-9f4d-91e8a61db9b2",
+        "stage": "OPEN",
+        "timestamp": 1628153546969,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "SkCgG",
+            "description": "zqifqqs",
+            "malfunction_cause": "NkbdIhTmwBmpogIFRVo"
+        },
+        "id": "934e366a-1abc-446a-bba6-6c4b0105de27",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546973,
+        "type": "MalfunctionCreated"
+    },
+    {
+        "details": {
+            "crew_id": "qYHtbmatdohWYL",
+            "description": "HqaYvVab",
+            "malfunction_cause": "dJoYPecJVaaLeNwfKzmQ"
+        },
+        "id": "e37c027a-0102-41c5-aafb-21e7d8e5b461",
+        "stage": "CLOSED",
+        "timestamp": 1628153546979,
+        "type": "MalfunctionClosed"
+    },
+    {
+        "details": {
+            "crew_id": "qPa",
+            "description": "lDwkLsKkCYT",
+            "malfunction_cause": "JdZGTfQvfZvFWeyHqvyTEGoiGxtYbp"
+        },
+        "id": "3deac1a4-5ffc-40c6-90b6-6444a1c9d924",
+        "stage": "CLOSED",
+        "timestamp": 1628153546984,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "CkdLnjBVsykogKBSGEOoAjKxp",
+            "description": "siGPPTTzZ",
+            "malfunction_cause": "CxmsKVyPrtBaiH"
+        },
+        "id": "3deac1a4-5ffc-40c6-90b6-6444a1c9d924",
+        "stage": "OPEN",
+        "timestamp": 1628153546989,
+        "type": "MalfunctionCreated"
+    },
+    {
+        "details": {
+            "crew_id": "Dm",
+            "description": "TyzV",
+            "malfunction_cause": "GkGqwlDfKb"
+        },
+        "id": "8408d240-ff7f-44d6-ac5b-5d1443e8a11b",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153546994,
+        "type": "MalfunctionClosed"
+    },
+    {
+        "details": {
+            "crew_id": "meSw",
+            "description": "mvqEdO",
+            "malfunction_cause": "BMTXxrLdokFWxRdKH"
+        },
+        "id": "26d441a0-96d9-48ea-afb7-ed4b7a164d9b",
+        "stage": "OPEN",
+        "timestamp": 1628153546998,
+        "type": "MalfunctionCreated"
+    },
+    {
+        "details": {
+            "crew_id": "MROvgQMafYSSlCFlJwHUepEJDfVfqv",
+            "description": "WkaJvWgoUvFKXwVGMc",
+            "malfunction_cause": "zoDkorfFWodVtFSVOq"
+        },
+        "id": "8408d240-ff7f-44d6-ac5b-5d1443e8a11b",
+        "stage": "CLOSED",
+        "timestamp": 1628153546999,
+        "type": "MalfunctionClosed"
+    },
+    {
+        "details": {
+            "crew_id": "hcpBKzHouKGZBxwB",
+            "description": "eKhjLQuu",
+            "malfunction_cause": "VcWJOQHwtthsIoeFPgfaJIceFjPaa"
+        },
+        "id": "efcef59d-9f69-4513-999c-167437154b15",
+        "stage": "CLOSED",
+        "timestamp": 1628153547008,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "tdJti",
+            "description": "leVjMshfHdgfxfXK",
+            "malfunction_cause": "RWGIOtEMGgyvtvBxCffAJFLvCrDBD"
+        },
+        "id": "c91fc68f-a1b1-4102-9db6-c0a32ca064bf",
+        "stage": "OPEN",
+        "timestamp": 1628153547008,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "AMlUlvajxVP",
+            "description": "QvdvcxRBasiREfkCBgLpGZulLxatH",
+            "malfunction_cause": "GuVXSLKoMPsFzzTacOLnxscSsGJYLrK"
+        },
+        "id": "e9cf14cd-9150-4d47-ba1b-ace99e1d5ae8",
+        "stage": "CLOSED",
+        "timestamp": 1628153547008,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "wTCJZFlSuOlWDgAA",
+            "description": "BiUsdtYr",
+            "malfunction_cause": "xcrdK"
+        },
+        "id": "26d441a0-96d9-48ea-afb7-ed4b7a164d9b",
+        "stage": "OPEN",
+        "timestamp": 1628153547008,
+        "type": "MalfunctionCreated"
+    },
+    {
+        "details": {
+            "crew_id": "FlsOeiTiQxd",
+            "description": "GjvRqcsXeHME",
+            "malfunction_cause": "yAfhGfjTTSefQ"
+        },
+        "id": "3deac1a4-5ffc-40c6-90b6-6444a1c9d924",
+        "stage": "CREW_ASSIGNED",
+        "timestamp": 1628153547023,
+        "type": "MalfunctionClosed"
+    },
+    {
+        "details": {
+            "crew_id": "QAKxXyJEAZBrKSSVNVX",
+            "description": "TERvFaIpyUavRYSLXCYQKqHFz",
+            "malfunction_cause": "lXiQbpBCwYPmaq"
+        },
+        "id": "89d47511-e9bb-45bc-b522-44d0805ce1ee",
+        "stage": "CLOSED",
+        "timestamp": 1628153547028,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "IYprvdegCOxpAfAcRjmDuQjXCCS",
+            "description": "SIxdFltTfpv",
+            "malfunction_cause": "ntnQzcFHczWlNBCQQAeiMkEvQS"
+        },
+        "id": "e9cf14cd-9150-4d47-ba1b-ace99e1d5ae8",
+        "stage": "CLOSED",
+        "timestamp": 1628153547028,
+        "type": "MalfunctionCreated"
+    },
+    {
+        "details": {
+            "crew_id": "gqnbXjIKKqciIHE",
+            "description": "jZymRjzNCuzereVzkbDJiLsP",
+            "malfunction_cause": "SRIoMNZEZoNXHeRlOjzGnGpI"
+        },
+        "id": "f3391a64-560f-4971-9f4d-91e8a61db9b2",
+        "stage": "OPEN",
+        "timestamp": 1628153547036,
+        "type": "MalfunctionCrewAssigned"
+    },
+    {
+        "details": {
+            "crew_id": "pjvX",
+            "description": "gBYdfGIfQksqhvmSDVOVUKTxPVixHdl",
+            "malfunction_cause": "dQMVjAfSUjpoMzJDqtnwmEXdOmSg"
+        },
+        "id": "3deac1a4-5ffc-40c6-90b6-6444a1c9d924",
+        "stage": "CLOSED",
+        "timestamp": 1628153547036,
+        "type": "MalfunctionClosed"
+    },
+    {
+        "details": {
+            "crew_id": "uyvqmJlhHmkAcksCP",
+            "description": "NtFsBGlDQpwXAItFXDMkl",
+            "malfunction_cause": "oMVMOVxpDxWSkCLEBwnShargCpDgFuG"
+        },
+        "id": "89d47511-e9bb-45bc-b522-44d0805ce1ee",
+        "stage": "OPEN",
+        "timestamp": 1628153547036,
+        "type": "MalfunctionCreated"
+    },
+    {
+        "details": {
+            "crew_id": "CHFXhwKjrAMhCoPWeBGMiKjKVJ",
+            "description": "SKPNomOLFjhxuukPQh",
+            "malfunction_cause": "vaINleTXFsaJWrHbxxRduzKrJcEwtEm"
+        },
+        "id": "8408d240-ff7f-44d6-ac5b-5d1443e8a11b",
+        "stage": "OPEN",
+        "timestamp": 1628153547044,
+        "type": "MalfunctionCrewAssigned"
+    }
+]
